@@ -17,6 +17,7 @@ The Facial Recognition Attendance Management System is an innovative and efficie
 -Security: Incorporated robust security measures to restrict access to authorized users only.
 
 **Technologies Used:**
+
 -Python
 
 -OpenCV
